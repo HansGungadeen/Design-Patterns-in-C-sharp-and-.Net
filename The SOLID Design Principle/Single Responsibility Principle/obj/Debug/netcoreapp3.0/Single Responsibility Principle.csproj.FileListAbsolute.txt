@@ -1,0 +1,11 @@
+C:\Users\Hans.Gungadeen\Desktop\Design Patterns in C# and .Net\The SOLID Design Principle\Single Responsibility Principle\bin\Debug\netcoreapp3.0\Single Responsibility Principle.exe
+C:\Users\Hans.Gungadeen\Desktop\Design Patterns in C# and .Net\The SOLID Design Principle\Single Responsibility Principle\bin\Debug\netcoreapp3.0\Single Responsibility Principle.deps.json
+C:\Users\Hans.Gungadeen\Desktop\Design Patterns in C# and .Net\The SOLID Design Principle\Single Responsibility Principle\bin\Debug\netcoreapp3.0\Single Responsibility Principle.runtimeconfig.json
+C:\Users\Hans.Gungadeen\Desktop\Design Patterns in C# and .Net\The SOLID Design Principle\Single Responsibility Principle\bin\Debug\netcoreapp3.0\Single Responsibility Principle.runtimeconfig.dev.json
+C:\Users\Hans.Gungadeen\Desktop\Design Patterns in C# and .Net\The SOLID Design Principle\Single Responsibility Principle\bin\Debug\netcoreapp3.0\Single Responsibility Principle.dll
+C:\Users\Hans.Gungadeen\Desktop\Design Patterns in C# and .Net\The SOLID Design Principle\Single Responsibility Principle\bin\Debug\netcoreapp3.0\Single Responsibility Principle.pdb
+C:\Users\Hans.Gungadeen\Desktop\Design Patterns in C# and .Net\The SOLID Design Principle\Single Responsibility Principle\obj\Debug\netcoreapp3.0\Single Responsibility Principle.csprojAssemblyReference.cache
+C:\Users\Hans.Gungadeen\Desktop\Design Patterns in C# and .Net\The SOLID Design Principle\Single Responsibility Principle\obj\Debug\netcoreapp3.0\Single Responsibility Principle.AssemblyInfoInputs.cache
+C:\Users\Hans.Gungadeen\Desktop\Design Patterns in C# and .Net\The SOLID Design Principle\Single Responsibility Principle\obj\Debug\netcoreapp3.0\Single Responsibility Principle.AssemblyInfo.cs
+C:\Users\Hans.Gungadeen\Desktop\Design Patterns in C# and .Net\The SOLID Design Principle\Single Responsibility Principle\obj\Debug\netcoreapp3.0\Single Responsibility Principle.dll
+C:\Users\Hans.Gungadeen\Desktop\Design Patterns in C# and .Net\The SOLID Design Principle\Single Responsibility Principle\obj\Debug\netcoreapp3.0\Single Responsibility Principle.pdb

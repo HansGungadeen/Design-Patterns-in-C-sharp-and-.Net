@@ -1,0 +1,11 @@
+C:\Users\Hans.Gungadeen\Desktop\Design Patterns in C# and .Net\The SOLID Design Principle\Open-Closed Principle\Open-Closed Principle\bin\Debug\netcoreapp3.0\Open-Closed Principle.exe
+C:\Users\Hans.Gungadeen\Desktop\Design Patterns in C# and .Net\The SOLID Design Principle\Open-Closed Principle\Open-Closed Principle\bin\Debug\netcoreapp3.0\Open-Closed Principle.deps.json
+C:\Users\Hans.Gungadeen\Desktop\Design Patterns in C# and .Net\The SOLID Design Principle\Open-Closed Principle\Open-Closed Principle\bin\Debug\netcoreapp3.0\Open-Closed Principle.runtimeconfig.json
+C:\Users\Hans.Gungadeen\Desktop\Design Patterns in C# and .Net\The SOLID Design Principle\Open-Closed Principle\Open-Closed Principle\bin\Debug\netcoreapp3.0\Open-Closed Principle.runtimeconfig.dev.json
+C:\Users\Hans.Gungadeen\Desktop\Design Patterns in C# and .Net\The SOLID Design Principle\Open-Closed Principle\Open-Closed Principle\bin\Debug\netcoreapp3.0\Open-Closed Principle.dll
+C:\Users\Hans.Gungadeen\Desktop\Design Patterns in C# and .Net\The SOLID Design Principle\Open-Closed Principle\Open-Closed Principle\bin\Debug\netcoreapp3.0\Open-Closed Principle.pdb
+C:\Users\Hans.Gungadeen\Desktop\Design Patterns in C# and .Net\The SOLID Design Principle\Open-Closed Principle\Open-Closed Principle\obj\Debug\netcoreapp3.0\Open-Closed Principle.csprojAssemblyReference.cache
+C:\Users\Hans.Gungadeen\Desktop\Design Patterns in C# and .Net\The SOLID Design Principle\Open-Closed Principle\Open-Closed Principle\obj\Debug\netcoreapp3.0\Open-Closed Principle.AssemblyInfoInputs.cache
+C:\Users\Hans.Gungadeen\Desktop\Design Patterns in C# and .Net\The SOLID Design Principle\Open-Closed Principle\Open-Closed Principle\obj\Debug\netcoreapp3.0\Open-Closed Principle.AssemblyInfo.cs
+C:\Users\Hans.Gungadeen\Desktop\Design Patterns in C# and .Net\The SOLID Design Principle\Open-Closed Principle\Open-Closed Principle\obj\Debug\netcoreapp3.0\Open-Closed Principle.dll
+C:\Users\Hans.Gungadeen\Desktop\Design Patterns in C# and .Net\The SOLID Design Principle\Open-Closed Principle\Open-Closed Principle\obj\Debug\netcoreapp3.0\Open-Closed Principle.pdb
